@@ -1,0 +1,4 @@
+interface:
+  display_name: "報告規範檢核"
+  short_description: "依研究設計選擇國際報告規範，逐項核對證據並找出投稿前缺漏"
+  default_prompt: "請使用 $reporting-guideline-checker 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

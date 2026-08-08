@@ -1,0 +1,4 @@
+interface:
+  display_name: "出版倫理與AI規範"
+  short_description: "核對出版倫理、生成式AI使用揭露、研究機密性與作者最終責任"
+  default_prompt: "請使用 $publication-ethics-ai-compliance 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

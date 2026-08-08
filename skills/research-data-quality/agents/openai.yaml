@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究資料品質"
+  short_description: "建立研究資料字典與品質閘門，稽核遺漏值、重複值及數字一致性"
+  default_prompt: "請使用 $research-data-quality 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

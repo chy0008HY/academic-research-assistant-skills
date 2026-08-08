@@ -1,0 +1,4 @@
+interface:
+  display_name: "再現性與開放科學"
+  short_description: "建立預註冊、分析決策、資料程式版本與開放科學再現性紀錄"
+  default_prompt: "請使用 $reproducibility-open-science 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"
