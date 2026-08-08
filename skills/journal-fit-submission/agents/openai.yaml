@@ -1,0 +1,4 @@
+interface:
+  display_name: "期刊適配與投稿"
+  short_description: "依官方政策、期刊範圍與近期文獻，評估投稿適配性及必要條件"
+  default_prompt: "請使用 $journal-fit-submission 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

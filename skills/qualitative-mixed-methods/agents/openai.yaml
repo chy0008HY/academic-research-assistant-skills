@@ -1,0 +1,4 @@
+interface:
+  display_name: "質性與混合方法"
+  short_description: "規劃質性研究、編碼嚴謹性、研究者反思與混合方法證據整合"
+  default_prompt: "請使用 $qualitative-mixed-methods 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "投稿文件包"
+  short_description: "建立並驗證投稿信、倫理聲明、匿名稿件、附件與審稿回覆文件包"
+  default_prompt: "請使用 $submission-package-builder 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

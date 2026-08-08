@@ -1,0 +1,4 @@
+interface:
+  display_name: "主張引用稽核"
+  short_description: "逐項核對稿件主張與引用證據，判斷推論強度及可能的引用漂移"
+  default_prompt: "請使用 $claim-citation-auditor 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究設計與測量"
+  short_description: "規劃研究設計、構念操作化、抽樣策略，並檢核測量信效度風險"
+  default_prompt: "請使用 $research-design-measurement 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"

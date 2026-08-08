@@ -1,0 +1,4 @@
+interface:
+  display_name: "因果推論檢核"
+  short_description: "檢查因果識別假設、混淆偏誤、穩健性分析與因果用語邊界"
+  default_prompt: "請使用 $causal-inference 協助我完成這項研究工作，標示證據、限制與待人工確認事項。"
