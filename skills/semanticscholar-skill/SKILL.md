@@ -2,10 +2,21 @@
 name: semanticscholar-skill
 description: Use when searching academic papers, looking up citations, finding authors, or getting paper recommendations using the Semantic Scholar API. Triggers on queries about research papers, academic search, citation analysis, or literature discovery.
 license: MIT
-homepage: https://github.com/Agents365-ai/semanticscholar-skill
-compatibility: Requires python3 and the `requests` package. Set S2_API_KEY for higher rate limits (request at https://www.semanticscholar.org/product/api#api-key). Works unauthenticated with strict rate limits.
-platforms: [macos, linux, windows]
-metadata: {"openclaw":{"requires":{"bins":["python3"]},"emoji":"📚"},"hermes":{"tags":["semantic-scholar","academic","paper-search","citation","literature","research"],"category":"research","requires_tools":["python3"],"related_skills":["asta-skill","zotero-research-assistant","literature-review","paper-reader"]},"author":"Agents365-ai","version":"0.8.1"}
+metadata:
+  homepage: https://github.com/Agents365-ai/semanticscholar-skill
+  compatibility: Requires python3 and the `requests` package. Set S2_API_KEY for higher rate limits. Works unauthenticated with strict rate limits.
+  platforms: [macos, linux, windows]
+  openclaw:
+    requires:
+      bins: [python3]
+    emoji: "📚"
+  hermes:
+    tags: [semantic-scholar, academic, paper-search, citation, literature, research]
+    category: research
+    requires_tools: [python3]
+    related_skills: [asta-skill, zotero-research-assistant, literature-review, paper-reader]
+  author: Agents365-ai
+  version: "0.8.1"
 ---
 
 # Semantic Scholar Search Workflow
