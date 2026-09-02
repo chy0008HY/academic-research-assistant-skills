@@ -1,6 +1,6 @@
 # Academic Research Assistant Skills
 
-Nineteen Agent Skills selected or created for the Academic Research Assistant workflow: nine traceable upstream snapshots and ten project-authored 4.7–4.10 research-rigor skills.
+Twenty-one Agent Skills selected or created for the Academic Research Assistant workflow: eleven traceable upstream or locally adapted skills and ten project-authored 4.7–4.10 research-rigor skills.
 
 ## Included skills
 
@@ -15,6 +15,8 @@ Nineteen Agent Skills selected or created for the Academic Research Assistant wo
 | `paper-lookup` | `K-Dense-AI/scientific-agent-skills` | Multi-database scholarly paper lookup |
 | `literature-review` | `K-Dense-AI/scientific-agent-skills` | Systematic literature review workflow |
 | `statistical-analysis` | `K-Dense-AI/scientific-agent-skills` | Statistical analysis and reporting workflow |
+| `academic-humanizer` | `AIScientists-Dev/academic-humanizer` | Improve academic prose while preserving evidence, results, citations, and disclosure obligations |
+| `paddleocr-doc-parsing` | `transiglobal/paddleocr-doc-parsing` | Extract structured content from complex PDFs and document images |
 
 ## Project-authored 4.7–4.10 skills
 
