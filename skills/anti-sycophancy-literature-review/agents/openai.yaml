@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti-Sycophancy Literature Review"
+  short_description: "Challenge premises and weigh supporting and contrary research"
+  default_prompt: "Use $anti-sycophancy-literature-review to test my research premise without assuming that my preferred conclusion is correct."

@@ -1,6 +1,6 @@
 # Academic Research Assistant Skills
 
-Twenty-one Agent Skills selected or created for the Academic Research Assistant workflow: eleven traceable upstream or locally adapted skills and ten project-authored 4.7–4.10 research-rigor skills.
+Twenty-two Agent Skills selected or created for the Academic Research Assistant workflow: eleven traceable upstream or locally adapted skills and eleven project-authored 4.7–4.10 research-rigor skills.
 
 ## Included skills
 
@@ -22,6 +22,7 @@ Twenty-one Agent Skills selected or created for the Academic Research Assistant 
 
 | Phase | Skill | Purpose |
 |---|---|---|
+| 4.7 | `anti-sycophancy-literature-review` | Challenge user premises and synthesize supporting, contrary, and unresolved evidence symmetrically |
 | 4.7 | `reporting-guideline-checker` | Select and audit design-appropriate reporting guidelines |
 | 4.7 | `claim-citation-auditor` | Check whether cited evidence supports manuscript claims |
 | 4.8 | `research-design-measurement` | Align questions, constructs, sampling and measurement quality |
@@ -33,7 +34,7 @@ Twenty-one Agent Skills selected or created for the Academic Research Assistant 
 | 4.10 | `publication-ethics-ai-compliance` | Audit publication ethics and AI disclosure requirements |
 | 4.10 | `submission-package-builder` | Assemble and cross-check human-approved submission packages |
 
-These ten skills were created for this research assistant. They are evidence-bounded: they do not guarantee acceptance, invent study evidence, certify compliance, or submit manuscripts automatically.
+These eleven skills were created for this research assistant. They are evidence-bounded: they do not guarantee acceptance, invent study evidence, certify compliance, or submit manuscripts automatically.
 
 ## Installation
 
