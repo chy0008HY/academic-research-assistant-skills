@@ -46,6 +46,14 @@ $skill-installer install https://github.com/chy0008HY/academic-research-assistan
 
 Restart Codex or start a new turn after installation so the newly installed skills are discovered.
 
+## ScholarRead alternatives bundle
+
+Four additional paper-reading and deep-research options are isolated under
+[`scholarread-alternatives/`](scholarread-alternatives/README.md). They do not
+replace or modify the existing `skills/` collection. Three are reviewed,
+license-preserving snapshots; the unlicensed upstream project is represented
+by a pinned direct-install descriptor rather than redistributed source.
+
 ## Provenance
 
 This repository is a redistribution snapshot, not the canonical upstream source. See [UPSTREAM.md](UPSTREAM.md) for source revisions and update guidance. Preserve upstream notices and review every skill and script before use. Some skills call third-party APIs or require separate credentials and dependencies.

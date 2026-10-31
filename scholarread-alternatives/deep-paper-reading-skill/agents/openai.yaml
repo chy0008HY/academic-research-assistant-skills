@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Paper Reading"
+  short_description: "Read a core paper critically with claim-evidence checks."
+  default_prompt: "Use deep-paper-reading-skill to analyze this core paper and produce a claim-evidence reading report."
